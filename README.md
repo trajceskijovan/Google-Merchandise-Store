@@ -6,7 +6,7 @@ Google Merchandise Store Analysis and Prediction in Pyhton
 https://github.com/trajceskijovan/Google-Merchandise-Store/blob/main/Google%20Merchandise%20Store.ipynb
 
 # Presentation (deck): 
-https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20Presentation.pdf
+https://github.com/trajceskijovan/Google-Merchandise-Store/blob/main/Google%20Merchandise%20Store%20Deck.pdf
 
 # Analytics Insight:
 ![](samples/1.PNG)
